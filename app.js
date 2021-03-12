@@ -24,7 +24,7 @@ const quotesArr = [
   },
 ];
 // Creating Event
-const getQuotes = function () {
+const getQuotes = () => {
   // Get random quoates
   let randomQuotes = Math.floor(Math.random() * quotesArr.length);
   quote.textContent = quotesArr[randomQuotes].quote;
