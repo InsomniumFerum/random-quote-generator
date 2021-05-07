@@ -18,7 +18,9 @@
 
 Basic random quote generator
 
-<img src="images/project.png" width="1000">
+[Project-Demo](https://sharp-leakey-fe19f2.netlify.app/)
+
+<img src="images/project.png" width="500">
 
 #### JavaScript Used
 
